@@ -25,7 +25,7 @@ Bibliotecas:
 ### :hammer_and_pick: <strong> Passo a passo:</strong>
 - Importação dos dados e criação da base para tratamento e modelagem.
 - Escolha e criação das features.
-- Levantementos gerais sobres a base criada para validações (missing values, tipos de variável presentes na base, etc.)
+- Levantamentos gerais sobres a base criada para validações (missing values, tipos de variável presentes na base, etc.)
 - Levantamentos estatísticos sobre a target e as features para escolha dos métodos de tratamento.
 - Tratamento da target.
 - Criação da pipeline para tratamento das features.
